@@ -3,7 +3,7 @@
 </p>
 
 # Brain Tumor Detection learning project using SVM , MLP ,Random Forest
-The Brain Tumor Detection focused on accurately detecting brain tumors in medical MRI images. 
+The Brain Tumor Detection project focused on accurately detecting brain tumors in medical MRI images. 
 
 
 ## 🔗 Dataset
